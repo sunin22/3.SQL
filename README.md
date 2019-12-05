@@ -1,2 +1,2 @@
-# SQL-
-Data exploration and create new data tables by joining in SQL
+# SQL
+Data exploration: Create new data tables and join them based on purposes in SQL
